@@ -1,0 +1,345 @@
+<size=45><color=#00FF00>----------[ Spanish Club v2.11]----------</color></size>
+
+<size=35><color=#FF8D00> Portal del Nether:</color></size>Se añadio un portal del nether para la cueva de Taylor.
+<size=35><color=#FF8D00> Cuarto vip:</color></size>Se añadio una habitacion secreta para los vips, aun esta en construccion, se aceptan sugerencias.
+<size=35><color=#FF8D00> Correccion de codigo:</color></size>Se corrigieron varias lineas de codigo corruptas en el sistema principal que afectaban la activacion de habilidades para ciertos tiers.
+<size=35><color=#FF8D00> Muñequitos añadidos:</color></size>Se añadio muñequitos para Leemoncita y PROXRAZIEN
+
+<color=#7E7E7E>- Notas del creador -
+La sala vip aun esta en construcción, acepto sugerencias, cambios y mejoras.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.10]----------</color></size>
+
+<size=35><color=#FF8D00> Reorganizado de Carteles:</color></size>Se reorganizo algunos carteles para mas slots para vips.
+<size=35><color=#FF8D00> Collar de perros:</color></size>Se añadio la opcion de toggle en los collares de perro.
+<size=35><color=#FF8D00> Bugs de espejos:</color></size>Se arreglo el bug en algunos espejos.
+<size=35><color=#FF8D00> Zona secreta:</color></size>Se añadio una zona secreta (En construccion)
+
+<color=#7E7E7E>- Notas del creador -
+Gracias a los nuevos vips y donadores.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.9]----------</color></size>
+
+<size=35><color=#FF8D00> Nuevo Spawn:</color></size>Se hizo un rework al Spawn, amplio y azul.
+<size=35><color=#FF8D00> Bug de los collares:</color></size>Se arreglo el bug que tenian lo collares, ahora todos podran jalar de la soga, pero solo los vips podran ponertelo en el cuello.
+<size=35><color=#FF8D00> Mas espacios para vips:</color></size>Ahora hay mas espacios para los nuevos vips.
+
+<color=#7E7E7E>- Notas del creador -
+Gracias a los nuevos vips !!!</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.8]----------</color></size>
+
+<size=35><color=#FF8D00> Taylor Ship:</color></size>Se a añadido nuevas cosas en el yate de nuestro patrocinador Taylor, una barra, un reproductor de video nuevo en la proa, se actualizaron la posision de algunas fotos dentro y su patrocinadora.
+<size=35><color=#FF8D00> Papitas:</color></size>Añadi papitas comestibles en la mesa del parque, cuidado de comer muchas porque podrias atorarte, go go go go.
+<size=35><color=#FF8D00> Bebidas en el Yate:</color></size>Licor en el yate interactivo.
+
+<color=#7E7E7E>- Notas del creador -
+Pasenla bien...</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.7]----------</color></size>
+
+<size=35><color=#FF8D00> Vip bugs:</color></size>Se arreglo el bug de cuando un vip entraba y no le cargaba sus perks.
+<size=35><color=#FF8D00> Zona actualizada:</color></size>Se añadio la zona de venado.
+<size=35><color=#FF8D00> Zona añadida:</color></size>Tienda de cocos añadida.
+<size=35><color=#FF8D00> Nuevo Pickup:</color></size>Se añadio una silla de ruedas en la isla.
+<size=35><color=#FF8D00> Collares para perros:</color></size>Collares para vips, los vips pueden colocar los collares y todos podran usarlo.
+<size=35><color=#FF8D00> Espejo del Spawn:</color></size>Se mejoro el espejo del spawn y ahora tiene todas las opciones visuales.
+<size=35><color=#FF8D00> Nuevos espejos:</color></size>Se mejoraron los espejos a una version con una UI moderna.
+<size=35><color=#FF8D00> Correccion de bugs:</color></size>Se arreglo espejo dañado en la zona de la cueva, se quito la colision a los cocos, se arreglo el bug visual en la luna de mrsjars.
+
+<size=35><color=#FF8D00> ACTUALIZACION DE REGLAMENTO:</color></size>Ahora solo los moderadores podrán moderar en instancias del grupo Spanish Club y de HyperNutts (Creador - Owner) No nos responsabilizamos los acontecimientos inusitados en otras instancias que no sean las nuestras oficiales, insistimos en que todos entren a instancias oficiales del grupo Spanish Club o HyperNutts.
+
+<color=#7E7E7E>- Notas del creador -
+Lo siento...</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.6]----------</color></size>
+
+<size=35><color=#FF8D00> Nuevo sistema:</color></size>En resumen... se actualizo muchas cosas del spanish...
+
+<color=#7E7E7E>- Notas del creador -
+Un cambio profundo con nuevas cosas bien piolas.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.5 ]----------</color></size>
+
+<size=35><color=#FF8D00>Modo Normal:</color></size>Halloween finalizado, se regreso el mundo a su forma original.
+<size=35><color=#FF8D00>Cambio de texturas:</color></size>Se cambiaron algunas texturas por otras nuevas para que se asemeje un poco mas 'real' y tenga un mejor aspecto.
+<size=35><color=#FF8D00>Respawn de Pickups:</color></size>Ahora los Pickups respawnean cada 3 minutos, de ese modo se evita un cochinero de pickups desparramados por el Spanish Club.
+<size=35><color=#FF8D00>LightMap reducido:</color></size>Se a reducido el tamaño del lightmap a 1024 pixeles para mejorar la optimizacion del mundo.
+<size=35><color=#FF8D00>Decimate de objetos:</color></size>Algunos de mis props del mundo se les ah hecho una reducción de polígonos a mas de la mitad para optimizar el mundo. Ahora hay menos de 90k poligonos por vista, esto incrementa los FPS y da paso a tener mayor cantidad de usuarios con avatares muy mal optimizados.
+<size=35><color=#FF8D00>Zona DJ:</color></size>Se añadio la Zona DJ para que los que tengan acceso a aquella zona puedan interactuar con la gente.
+
+<color=#7E7E7E>- Notas del creador -
+El spawn tendrá un cambio de diseño de interior, pensamos en añadir mejor contenido al mundo por que ustedes se lo merecen.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.4 ]----------</color></size>
+
+<size=35><color=#FF8D00>Nuevos vips:</color></size>Se añadieron nuevos vips al spanish club, bienvenidos sean.
+<size=35><color=#FF8D00>Nuevos anuncios:</color></size>Nuevos patrocinadores al spanish club.
+<size=35><color=#FF8D00>Corona Identificadora:</color></size>Ahora podras diferenciar al staff con una corona en la cabeza, también los vips tendran esta peculiaridad, de este modo podras saber quien es que en el spanish club.
+<size=35><color=#FF8D00>Dakimakuras:</color></size>Se añadieron las dakimakuras al spanish club, solo para VIP+.
+
+<color=#7E7E7E>- Notas del creador -
+Pronto habra algo nuevo en el spanish club, preparense...</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.3 ]----------</color></size>
+
+<size=35><color=#FF8D00>Actualizacion de VIPS:</color></size>Se actualizo la manera de como se gestionan a los vips.
+<size=35><color=#FF8D00>Nuevos anuncios:</color></size>Se pusieron nuevos anuncios y vips.
+
+<color=#7E7E7E>- Notas del creador -
+Se van a modificar algunas cosas para los vips, como poner dakimakuras en vez de peluches por temas de optimizacion.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.2 ]----------</color></size>
+
+<size=35><color=#FF8D00>Actualizacion de Halloween:</color></size>Se a actualizado el mapa para la tematica de halloween.
+
+<color=#7E7E7E>- Notas del creador -
+Nuevas actualizaciones pronto...</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.15 ]----------</color></size>
+
+<size=35><color=#FF8D00>Actualizado menu de carga:</color></size>Se actualizo el menu de carga de recursos.
+<size=35><color=#FF8D00>Se creo un MOTD:</color></size>"Mensaje of the Day" Te da un mensaje aleatorio cada vez que ingresas al Spanish Club.
+<size=35><color=#FF8D00>Se actualizo anuncios:</color></size>Anuncios actualizados, damos la bienvenida a los nuevos patrocinadores del spanish club
+
+<color=#7E7E7E>- Notas del creador -
+Damos la bienvenida a nuestra nueva patrocinadora y los vips que gracias a su ayuda seguiremos agregando nuevas cosas al Spanish Club.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.14 ]----------</color></size>
+
+<size=35><color=#FF8D00>Nuevo menú de carga:</color></size>Se a creado un creado un menu en la esquina inferior derecha de la pantalla para saber que recursos se estan cargando en el mundo, informacion visual.
+<size=35><color=#FF8D00>Arreglado el cartelito de baneos:</color></size>Se subio la calidad de la textura del cartel de baneos.
+<size=35><color=#FF8D00>Botella que gira arreglada:</color></size>Se creo otro script que hace girar la botella en la zona de chupitos de los Nine's Comunity.
+
+<color=#7E7E7E>- Notas del creador -
+Damos la bienvenida a nuestro nuevo patrocinador Nine's Community, quienes estaran a cargo de la zona superior del avatar shop.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.13 ]----------</color></size>
+
+<size=35><color=#FF8D00>Espacios nuevos:</color></size>Se a añadido espacios nuevos de convivencia, cerca de la cueva y encima del avatar shop
+<size=35><color=#FF8D00>Carteles de publicidad:</color></size>Se actualizaron carteles publicitarios y se añadieron unos mas.
+<size=35><color=#FF8D00>Problemas tecnicos solucionados:</color></size>Se actualizo el script de administracion para solucionar algunos problemas tecnicos.
+
+<color=#7E7E7E>- Notas del creador -
+Damos la bienvenida a nuestro nuevo patrocinador Nine's Community, quienes estaran a cargo de la zona superior del avatar shop.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.12.1 ]----------</color></size>
+
+<size=35><color=#FF8D00>Bug del faro:</color></size>Se arreglo el bug del faro, se hizo una animacion para que gire correctamente.
+<size=35><color=#FF8D00>Se optimizo las texturas:</color></size>Se comprimio las texturas y el mundo disminuyo 100Kb.
+
+<color=#7E7E7E>- Notas del creador -
+Hola!</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.12.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Nuevo faro instalado:</color></size>Se añadio el legendario faro, creado por Dispera, diseñador 3D que apoya al spanish club. Discord de contacto para comisiones: .dispera Muchas gracias bro por el diseño del faro, quedo mamalon.
+<size=35><color=#FF8D00>Actualizacion de los carteles de patrocinadores:</color></size>Se añadio 2 carteles nuevos de patrocinadores.
+<size=35><color=#FF8D00>Se añadio 2 carteles vips:</color></size>Bienvenido a los nuevos vips del spanish club, felicitaciones!!!
+
+<color=#7E7E7E>- Notas del creador -
+Amigos, amigas gracias una vez mas por el apoyo, quiero agradecer a los nuevos patrocinadores del spanish club, una fraternal bienvenida.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.11.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Zona de arte y cafe Actualizada:</color></size>Se actualizo nuevamente el club de arte y cafe con imagenes del patrocinador.
+<size=35><color=#FF8D00>Zona de aislamiento creada:</color></size>Se a creado una zona de aislamiento temporal o permanente a todo aquel que inclumpla con las reglas de la comunidad.
+<size=35><color=#FF8D00>Nuevo Moderador:</color></size>Se a añadido a un nuevo moderador al spanish club, bienvenido Mephiston.
+
+<color=#7E7E7E>- Notas del creador -
+Ya no suelo poner el log de actualizacion del spanish club ya que se que nadie lo lee, pero en caso alguien haya leido esto le doy mi agradecimiento ya que le presta atencion a las actualizaciones del mapa, hace un par de meses se empezo con la construccion del spanish club 2, mendiante este log doy anuncio de que pronto estara a su disposicion el Spanish Club 2, super renovado con la mejor calidad y cariño que pongo a mis proyectos, aunque un poco lento el desarrollo pero va en buen camino, espero su apoyo a todos.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.10.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Zona de arte y cafe Actualizada:</color></size>Se actualizo visualmente esa area añadiento imagenes, objetos y cosas nuevas para mayor conformidad.
+<size=35><color=#FF8D00>Pizarra en el spawn:</color></size>Se añadio una pizarra en el spanish club, aqui se muestra todos los vips, boosters de discord y patreons.
+<size=35><color=#FF8D00>Mejora visual:</color></size>Se mejoro la textura de iluminacion del spanish club.
+<size=35><color=#FF8D00>Casa de la isla abierta:</color></size>Se a abierto la casa de la isla, esta casa esta en venta.
+
+<color=#7E7E7E>- Notas del creador -
+Ya constamos con patreon para realizar donaciones y tener una mension especial en el pizarron del spanish club.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.9.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Actualizacion de posters:</color></size>Se agregaron y quitaron algunos posters de publicidad ya que entraron y salieron patrocinadores del spanish club.
+<size=35><color=#FF8D00>Solucionado bugs:</color></size>Varios bugs del mundo fueron parchados.
+<size=35><color=#FF8D00>Videoplayer arreglado:</color></size>Solucionado el problema del video reproductor.
+<size=35><color=#FF8D00>Muñecos nuevos:</color></size>Se agrego y quito algunos muñecos de algunos vips que salieron y entraron.
+<size=35><color=#FF8D00>Postres en la cafeteria:</color></size>Agregado postres, bebidas en la cafetería para interactuar, rolear y jugar.
+<size=35><color=#FF8D00>Bandera de Perú:</color></size>Añadí personalmente la bandera del Perú por fiestas patrias y sus 202 años de independencia, VIVA EL PERU CARAJO!!!. Orgulloso de ser peruano.
+
+<color=#7E7E7E>- Notas del creador -
+Un saludo a todos los peruanos y peruanas de vrchat felices fiestas patrias, gracias a los patrocinadores nuevos espero disfruten del spanish club, gracias a los vips y personas que apoyan al mantenimiento del spanish club.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.8.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Se actualizo anuncios:</color></size>Cambio de anuncios: Se actualizo imágenes de posters remotos.
+<size=35><color=#FF8D00>Cambio de posiciones:</color></size>Se cambio de posición de algunos anuncios..
+<size=35><color=#FF8D00>Nuevos puestos de avatares:</color></size>Se puso 2 puestos mas de avatares ahora hay +40 avatares.
+<size=35><color=#FF8D00>Nueva zona Cohete:</color></size>Se creo una pequeña zona para el cohete.
+<size=35><color=#FF8D00>Cohete cercano:</color></size>Se trajo al cohete a la isla principal, ahora podrás ir con 1 click.
+<size=35><color=#FF8D00>Plomito Cave:</color></size>Se añadió el letrero a la cueva de plomito.
+<size=35><color=#FF8D00>Pickups toggle:</color></size>Ahora se puede activar y desactivar el toggle de los pickups.
+<size=35><color=#FF8D00>Eliminado las películas:</color></size>Se elimino temporalmente la lista de películas.
+<size=35><color=#FF8D00>Eliminado de sombrillas:</color></size>Se elimino las sombrillas de la playa.
+<size=35><color=#FF8D00>Textura RGB-A del terreno:</color></size>Se a creado una nueva textura RGB-A para el terreno.
+<size=35><color=#FF8D00>Bakeado de luces:</color></size>Nuevo bakeado de luces por cambios del mundo.
+
+<color=#7E7E7E>- Notas del creador -
+Espero que estas actualizaciones sean de su agrado, se seguirá trabajando en el mantenimiento del mundo gracias a los patrocinadores y vips del mundo, gracias a ellos podemos continuar con el mantenimiento del Spanish Club!!!.</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.7.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Actualización de posters: </color></size>: Se actualizo imágenes de posters remotos y links.
+<size=35><color=#FF8D00>Películas en el spawn</color></size>: Se agregaron películas en el spawn para que todos puedan verlo.
+<size=35><color=#FF8D00>Entrada a la cueva de plomito</color></size>: Se puso un anuncio que la cueva es de plomito.
+<size=35><color=#FF8D00>Bakeado de Lightmap</color></size>: Se actualizo el Lightmap del mapa con nuevos elementos.
+<size=35><color=#FF8D00>Sistema de baneo actualizado</color></size>: Se actualizo el sistema de baneo permanente.
+
+<color=#7E7E7E>- Notas del creador -
+Proximamente mas actualizaciones</color>
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.6.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Correccion de algunos posters: </color></size>: Se a cambiado algunos links de imagenes antiguos.
+<size=35><color=#FF8D00>Se agrego un full screen al videoplayer del spawn</color></size>: Ahora con esta opcion podras ver los videos en full screen, simplemente arrastra la esfera roja a tu cabeza y miralo todo en HD y full resolucion. Para usuarios de VR simplemente pon tu camara de bolsillo dentro de la esfera y tu pantalla principal tendra el videoplayer a full screen.
+<color=#7E7E7E>- Notas del creador -
+Sigo trabajando en el cohete, espero no decepcionarlos con la nueva funcion...</color>
+
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.5.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Mejora de la carga de imagenes: </color></size>: Se a mejorado la carga de imagenes para que de ese modo no tenga que renderizar todos los reflection probes una vez cargada una imagen, se renderiza todos los reflejos una vez finalizado toda la carga completa de imagenes.
+<size=35><color=#FF8D00>Se agrego cambio de resolucion de reflection probes</color></size>: Se a añadido una funcion nueva en el menu de opciones del mapa para poder dimensionar y cambiar la calidad de los reflejos del mapa desde los 16 pixeles que es la calidad mas baja, hasta los 1024pixeles que es una calidad muy alta. Recuerda, mientras mas baja sea la calidad se vera mas feo el reflejo pero aumentaran los fps.
+<size=35><color=#FF8D00>Cambios menores visuales</color></size>: Visualmente se añadieron unos cuantos reflection probes en algunas zonas para que los avatares se vean mejor. En una de las islas se subio un poco el terreno para que los barcos puedan subirse y acceder al cohete con normalidad.
+<color=#7E7E7E>- Notas del creador -
+Proximamente se habilitara el cohete con una nueva funcion de navegacion mientras viajas a la luna.</color>
+
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.4.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Mejora de nivel de seguridad del script</color></size>: Se a modificado parte del codigo del mapa para poder proteger a los usuarios y vips de los hackers y se realizo algunos cambios adicionales para los vips.
+<size=35><color=#FF8D00>Se modifico la calidad del audio</color></size>: Se comprimio la calidad del audio de algunos clips para mejorar el peso del mapa.
+<color=#7E7E7E>- Notas del creador -
+Eh estado viendo el mundo y parece que hay muchos clientes modificados que rompen el mapa y activan opciones para que todos vuelen o aparezcan y desaparezcan cosas, eh mejorado el nivel de protección del mundo para evitar esos desastres y tengan una mejor experiencia dentro del mundo.</color>
+
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.3.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Cambios:</color></size>
+
+<size=30><color=#FF8D00>Se añadió isla nueva para Keinth</color></size>
+<size=30><color=#FF8D00>Se actualizó lista de baneados</color></size>
+<size=30><color=#FF8D00>Se hicieron cambios en los UVMap del terreno</color></size>
+<size=30><color=#FF8D00>Se actualizó casa de Arte</color></size>
+<size=30><color=#FF8D00>Se cambió de SkyBox a uno más Ligero</color></size>
+<size=30><color=#FF8D00>Se actualizó TP a la luna mediante el cohete con 1 click</color></size>
+<size=30><color=#FF8D00>Se corrigieron errores de código</color></size>
+<size=30><color=#FF8D00>Actualizado para quest 2</color></size>
+<color=#7E7E7E>- Notas del creador -
+Agradecemos sinceramente a los patrocinadores y a todos los que ayudan a mantener el proyecto siempre activo y actualizado. Esperamos que disfruten de las nuevas características y mejoras. Su apoyo y participación son vitales para el crecimiento de nuestra comunidad. ¡Gracias!.</color>
+
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.2.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Actualización del sistema de disparo</color></size>: Se han realizado cambios en el sistema de disparo para mejorar su funcionamiento y ofrecer una experiencia de juego más fluida y precisa.
+<size=35><color=#FF8D00>Actualización en la recolección de pickups</color></size>: A partir de ahora, solo los usuarios VIP podrán recoger los pickups disponibles en el mundo, lo que añade un nuevo nivel de exclusividad y recompensa para nuestros jugadores más dedicados.
+<size=35><color=#FF8D00>Nueva exhibición de arte</color></size>: Hemos agregado una zona dedicada al arte, donde podrás apreciar una selección de obras impresionantes. Sumérgete en la creatividad y disfruta de este nuevo espacio inspirador.
+<size=35><color=#FF8D00>Cambio de diseño del piso en la zona de arte</color></size>: Hemos renovado por completo el diseño del piso en la zona de arte para brindarte una experiencia visualmente impactante y coherente con la temática artística del lugar.
+<size=35><color=#FF8D00>Nuevas publicidades</color></size>: Hemos incorporado anuncios frescos y emocionantes en diferentes áreas del mundo, lo que te permitirá estar al tanto de las últimas novedades y descubrir productos y servicios interesantes.
+<size=35><color=#FF8D00>Aceptación de reglas al inicio</color></size>: Hemos agregado un anuncio al principio del juego que te invitará a leer y aceptar nuestras reglas. Esto garantiza un ambiente seguro y respetuoso para todos los jugadores.
+<size=35><color=#FF8D00>Sistema de administración y moderación</color></size>: Hemos implementado un sistema dedicado a la administración y moderación del mundo, lo que nos permitirá brindarte un entorno justo y libre de comportamientos inapropiados.
+<size=35><color=#FF8D00>Mejora en los shaders de video</color></size>: Hemos actualizado los shaders de video utilizados en los reproductores para ofrecerte una calidad visual mejorada y efectos más impresionantes durante la reproducción de contenido multimedia.
+<size=35><color=#FF8D00>Modo de pantalla grande en el reproductor de video de la cueva</color></size>: Ahora puedes disfrutar de una opción para ver el contenido multimedia en pantalla grande dentro del reproductor de video ubicado en la cueva. Sumérgete en tus videos favoritos con una experiencia más inmersiva.
+<size=35><color=#FF8D00>Optimización del atlas de texturas</color></size>: Hemos optimizado el atlas de texturas del mundo para acomodar las nuevas texturas añadidas, lo que mejora el rendimiento general y la carga de elementos visuales en el juego.
+
+<color=#7E7E7E>- Notas del creador -
+Queremos expresar nuestro sincero agradecimiento a los patrocinadores del Spanish Club y a todos los usuarios VIP. Esperamos de todo corazón que se respeten las reglas y que podamos formar una comunidad sólida basada en el respeto mutuo. Su apoyo y participación son fundamentales para construir un entorno positivo y enriquecedor para todos. ¡Gracias!.</color>
+
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.1.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Se añadieron los muñecos VIP</color></size>: Se han incluido nuevos muñecos exclusivos para los usuarios VIP, ofreciendo una opción adicional de personalización.
+
+<size=35><color=#FF8D00>Se añadió el muñeco para francisco23</color></size>: Se ha creado un muñeco especial personalizado para el usuario francisco23, brindando una experiencia única para él.
+
+<size=35><color=#FF8D00>Se agregó el QR del grupo de Discord del Spanish Club</color></size>: Se ha incluido un código QR en el mundo que te dirige al grupo de Discord del Spanish Club, permitiéndote unirte y participar en la comunidad.
+
+<size=35><color=#FF8D00>Se modificó el script principal</color></size>: El script principal ha sido actualizado y modificado, mejorando la funcionalidad y corrigiendo posibles errores.
+
+<size=35><color=#FF8D00>Se cambió la fuente y errores de texto</color></size>: Se ha cambiado la fuente utilizada en el mundo, ofreciendo una apariencia visual diferente, y se han corregido errores de texto para mejorar la legibilidad y la experiencia de juego.
+
+<color=#7E7E7E>- Notas del creador -
+Gracias a los vips y a los patrocinadores del Spanish Club, ya que nos ayudan a mantener actualizado el mundo y brindarles el mejor contenido de VRChat.</color>
+
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.0.0 ]----------</color></size>
+
+<size=35><color=#FF8D00>Reboot del mundo</color></size>
+<size=20> Se realizó una renovación completa del mundo para brindar una experiencia aún más inmersiva y emocionante.</size>
+
+<size=35><color=#FF8D00>Mejoras en el sistema de lanzamiento de fuegos artificiales</color></size>
+<size=20>Se implementó un nuevo sistema que ofrece efectos visuales impresionantes y mayor interactividad al disparar fuegos artificiales.</size>
+
+<size=35><color=#FF8D00>Nuevo modelo de lanza fuegos artificiales</color></size>
+<size=20>El lanza fuegos artificiales ha sido rediseñado como una bazuka, brindando una apariencia única y emocionante.</size>
+
+<size=35><color=#FF8D00>Innovaciones en el sistema de pistolas de agua</color></size>
+<size=20>Se han introducido mejoras en el sistema de pistolas de agua, ofreciendo una experiencia de juego más divertida y dinámica.</size>
+
+<size=35><color=#FF8D00>Actualización del modelo del panel de espejo</color></size>
+<size=20>El panel de espejo ha sido renovado con un nuevo y atractivo diseño, mejorando la estética y la funcionalidad.</size>
+
+<size=35><color=#FF8D00>Mejoras en el control del espejo</color></size>
+<size=20>Se implementó un nuevo sistema de control para el espejo, permitiendo un ajuste más preciso y personalizado.</size>
+
+<size=35><color=#FF8D00>Nuevo menú informativo</color></size>
+<size=20>Ahora puedes acceder a un completo menú donde encontrarás información detallada sobre el mundo, características para los usuarios VIP y otros contenidos relevantes.</size>
+
+<size=35><color=#FF8D00>Retexturizado de modelos seleccionados</color></size>
+<size=20>Se ha realizado un retexturizado en algunos modelos, mejorando la calidad visual y los detalles.</size>
+
+<size=35><color=#FF8D00>Implementación de un nuevo atlas de texturas a 2K</color></size>
+<size=20>Se ha actualizado el atlas de texturas para optimizar el rendimiento y brindar una mayor calidad gráfica.
+</size>
+<size=35><color=#FF8D00>Remoción y reemplazo de barcos</color></size>
+<size=20>Los barcos anteriores han sido reemplazados por nuevos modelos, ofreciendo una experiencia renovada en las zonas acuáticas del mundo.</size>
+<size=35><color=#FF8D00>Actualización de posters VIP</color></size>
+<size=20>Se han actualizado los posters VIP con diseños frescos y emocionantes, resaltando la importancia de los usuarios VIP en el mundo.</size>
+
+<size=35><color=#FF8D00>Nueva adición de un camino detrás del spawn para acceder a un bote</color></size>
+<size=20>Se ha añadido un camino adicional detrás del área de inicio, proporcionando una nueva ruta para subirse a un bote y explorar el mundo desde una perspectiva única.</size>
+
+<size=35><color=#FF8D00>Expansión del Avatar Shop</color></size>
+<size=20>El Avatar Shop ha sido ampliado y ahora cuenta con un segundo piso, ofreciendo aún más opciones y variedad para personalizar tu avatar.</size>
+
+<color=#7E7E7E>- Notas del creador -
+Quiero expresar mi profundo agradecimiento al público presente por su continua gratitud y apoyo a lo largo de los años. Desde nuestro inicio en 2018, han sido ustedes quienes nos han acompañado y preferido, y por eso les damos una cálida bienvenida una vez más. Además, quiero extender un agradecimiento especial a nuestros valiosos VIP y a los generosos patrocinadores del mundo. Su contribución nos permite mantener el mundo constantemente actualizado con nuevo y emocionante contenido. Su apoyo incondicional es fundamental para nuestro crecimiento y éxito, y les estoy sinceramente agradecido. ¡Seguimos comprometidos en ofrecerles la mejor experiencia posible en el Spanish Club v2.0.0!.</color>
+
+<color=#00FF00>------------------------------------------</color>
