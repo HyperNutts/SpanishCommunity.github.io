@@ -4,8 +4,8 @@ function irAAdministracion() {
 }
 
 function irAVerFotos() {
-    // Agrega aquí la lógica para redirigir o mostrar la página de ver fotos
-    alert("Ir a la página de Ver Fotos");
+    // Redirige a fotos.html al hacer clic en el botón "Ver Fotos"
+    window.location.href = 'fotos.html';
 }
 
 function irAVerUsuarios() {
