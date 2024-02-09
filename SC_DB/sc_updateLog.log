@@ -1,3 +1,18 @@
+<size=45><color=#00FF00>----------[ Spanish Club v2.15]----------</color></size>
+
+<size=35><color=#FF8D00> Cambiar SkyBox [Vips]:</color></size>Ahora los vips y rangos superiores podran cambiar el skybox del mundo desde el panel VIP que se encuentra en el spawn.
+<size=35><color=#FF8D00> Cambiar Calidad del agua [Vips]:</color></size>Todos los vips y rangos superiores podran cambiar la calidad del agua de spanish club.
+<size=35><color=#FF8D00> Cambio de iconos [Vips]:</color></size>Se a cambiado el icono de activacion de los collares y la tenaza para que se vea mucho mas atractivo y facil de entender visualmente.
+<size=35><color=#FF8D00> Toggle de la lluvia [Vips]:</color></size>Se coloco un toggle para activar la lluvia en spanish club.
+<size=35><color=#FF8D00> Decoracion en la cueva [Vips]:</color></size>Se añadio decoracion a la habitacion superior de taylor en la cueva.
+<size=35><color=#FF8D00> Sonidos de vips [Vips]:</color></size>Se añadieron y actualizaron algunos sonidos de entrada de algunos vips nuevos.
+<size=35><color=#FF8D00> Flecha de señalacion [Vips]:</color></size>Flecha para señalar cosas puntuales, añadi esto para indicar visualmente donde estan las cosas y menus de spanish club.
+
+<color=#7E7E7E>- Notas del creador -
+Abrimos una encuesta en discord, la pregunta es: ¿Quieres que los collares, las manos para agarrar y las tenazas vuelvan a estar activados por defecto? Va ganando a 52 si y 21 que no.
+Los collares activados volveran.
+<color=#00FF00>------------------------------------------</color>
+
 <size=45><color=#00FF00>----------[ Spanish Club v2.14]----------</color></size>
 
 <size=35><color=#FF8D00> Perks de VIPs:</color></size>Los perks de vips como collares y tenazas se han puesto en OFF por default.
