@@ -32,4 +32,4 @@ Daki_31: false
 Daki_32: false
 Rain: true
 Vehicles: true
-Dirigible: false
+Dirigible: true
