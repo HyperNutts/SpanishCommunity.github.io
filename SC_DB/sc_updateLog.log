@@ -1,3 +1,14 @@
+<size=45><color=#00FF00>----------[ Spanish Club v2.16]----------</color></size>
+
+<size=35><color=#FF8D00> Se optimizo:</color></size>Se Optimizo luces dynamicas activas por error.
+<size=35><color=#FF8D00> Collares y tenazas:</color></size>Se pusieron nuevamente activas por defecto estos dos elemetos para los vips, esto se decidio mediante una botacion en el discord.
+<size=35><color=#FF8D00> Habitaciones privadas:</color></size>Se configuro las habitaciones privadas para que el audio solamente suene en zonas privadas.
+<size=35><color=#FF8D00> Cabaña de venado Habilitada:</color></size>Se habilito el acceso libre a la zona de arriba de la cabaña de Venado.
+
+<color=#7E7E7E>- Notas del creador -
+Espero que spanish club haya mejorado su rendimiento, todos son bienvenidos.
+<color=#00FF00>------------------------------------------</color>
+
 <size=45><color=#00FF00>----------[ Spanish Club v2.15]----------</color></size>
 
 <size=35><color=#FF8D00> Cambiar SkyBox [Vips]:</color></size>Ahora los vips y rangos superiores podran cambiar el skybox del mundo desde el panel VIP que se encuentra en el spawn.
