@@ -1,5 +1,15 @@
 <size=45><color=#00FF00>----------[ Spanish Club v2.16]----------</color></size>
 
+<size=35><color=#FF8D00> Sorteo:</color></size>Se añadio un sistema global para el sorteo del 16/02/24
+<size=35><color=#FF8D00> Cambio de ruta de las imagenes remotas:</color></size>Se cambio la ruta de las imagenes remotas dentro de nuestro servidor para no tenerlo tan desordenado.
+
+<color=#7E7E7E>- Notas del creador -
+Gracias por participar en el sorteo. 
+Updated: 15/02/24
+<color=#00FF00>------------------------------------------</color>
+
+<size=45><color=#00FF00>----------[ Spanish Club v2.16]----------</color></size>
+
 <size=35><color=#FF8D00> Se optimizo:</color></size>Se Optimizo luces dynamicas activas por error.
 <size=35><color=#FF8D00> Collares y tenazas:</color></size>Se pusieron nuevamente activas por defecto estos dos elemetos para los vips, esto se decidio mediante una botacion en el discord.
 <size=35><color=#FF8D00> Habitaciones privadas:</color></size>Se configuro las habitaciones privadas para que el audio solamente suene en zonas privadas.
