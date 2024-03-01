@@ -79,43 +79,43 @@ tier: 5
 time: 31
 date: 09/01/2024 00:00
 @vip
+name: Icharo
+tier: 7
+time: 31
+date: 01/03/2024 00:00
+@vip
 name: 9Ninety
 tier: 7
 time: 31
-date: 01/02/2024 00:00
+date: 01/03/2024 00:00
 @vip
 name: 9Ninety GD
 tier: 7
 time: 31
-date: 01/02/2024 00:00
-@vip
-name: Posnope
-tier: 7
-time: 31
-date: 01/02/2024 00:00
-@vip
-name: Beamer Bøy
-tier: 7
-time: 31
-date: 01/02/2024 00:00
-@vip
-name: Twenty
-tier: 6
-time: 31
-date: 01/02/2024 00:00
+date: 01/03/2024 00:00
 @vip
 name: _Doga
 tier: 7
 time: 31
-date: 26/01/2024 12:00
+date: 26/03/2024 12:00
 @vip
 name: εAᴇʀᴇᴅɪᴛʜз
 tier: 5
 time: 31
 date: 26/01/2024 12:00
 @vip
-name: Icharo
+name: Posnope
 tier: 7
+time: 31
+date: 01/03/2024 00:00
+@vip
+name: Beamer Bøy
+tier: 7
+time: 31
+date: 01/03/2024 00:00
+@vip
+name: Twenty
+tier: 6
 time: 31
 date: 01/02/2024 00:00
 @vip
@@ -993,11 +993,6 @@ name: _TICO_
 tier: 3
 time: 61
 date: 27/02/2024 20:00
-@vip
-name: Setsumi
-tier: 3
-time: 31
-date: 25/02/2024 23:59
 @vip
 name: Setsumi
 tier: 3
