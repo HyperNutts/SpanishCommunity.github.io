@@ -1,3 +1,12 @@
+<size=45><color=#00FF00>----------[ Spanish Club v2.2]----------</color></size>
+
+<size=35><color=#FF8D00> Optimizacion de Meshes:</color></size>Muchos objetos dinamicos en el mundo tenian alto poligonaje por que se repiten, esto ocacionaba que por vista tengan entre 100k aa 400k poligonos, lo que ocaciona LAG, se han reducido drasticamente esos numeros entre 1k a 10k poligonos por vista, se reducieron los poligonos de varios objetos y se añadieron LOD de bajo poligonaje.
+
+<color=#7E7E7E>- Notas del creador -
+Pronto se modificara la zona de bodas, cambiara a ser una zona de bar en la playa, la zona de boda se movera a otro lado al costado del cerro.
+Updated: 02/03/24
+<color=#00FF00>------------------------------------------</color>
+
 <size=45><color=#00FF00>----------[ Spanish Club v2.19]----------</color></size>
 
 <size=35><color=#FF8D00> Mejora de Zona:</color></size>Se mejoro la zona de la casa del arbol, patrocinio de PROXRAZIEN, pronto se expandira la zona de BODA.
