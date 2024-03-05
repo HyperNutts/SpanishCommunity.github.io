@@ -1,4 +1,4 @@
-enableAd: false
-adMessage: "Hola Spanish Club, este es un mensaje de prueba global. Estos mensajes programados nos servira mucho a la administracion para transmitir mensajes a todas las instancias."
-sendDate: 05/03/2024 11:56 -05:00
+enableAd: true
+adMessage: "<color=#ff0000ff>Hola chicos les recomendamos de la parte del staff del Spanish Club,reiniciar sus intancias (Hacer Rejoin) </color> <color=#ffff00ff> un saludo! SugarLoliUwU.</color>"
+sendDate: 05/03/2024 14:35 -03:00
 displayTime: 30
