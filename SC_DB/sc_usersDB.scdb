@@ -49,11 +49,6 @@ tier: 7
 time: 0
 date: 21/11/2023 00:00
 @vip
-name: Forels
-tier: 6
-time: 0
-date: 16/12/2024 00:00
-@vip
 name: Dispera
 tier: 6
 time: 365
@@ -1048,3 +1043,18 @@ name: Miguelito-69xd
 tier: 3
 time: 31
 date: 05/03/2024 11:30
+@vip
+name: Forels
+tier: 6
+time: 31
+date: 06/03/2024 00:00
+@vip
+name: Zomira
+tier: 6
+time: 31
+date: 06/03/2024 00:00
+@vip
+name: M1ne
+tier: 6
+time: 31
+date: 06/03/2024 00:00
