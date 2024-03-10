@@ -1,5 +1,4 @@
 enableAd: true
-adMessage: <color=#02E9F0>¡Esto es un Test,No se asusten!</color> 
-<color=#02E9F0>¡Querida comunidad de VRChat!</color> 
-sendDate: 09/03/2024 03:06 -03:00
+adMessage: <color=#F00202>¡Esto es un Test</color> '\n' <color=#021FF0>,No se asusten!</color> 
+sendDate: 10/03/2024 11:21 -03:00
 displayTime: 15
