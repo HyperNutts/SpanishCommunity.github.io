@@ -1,4 +1,4 @@
 enableAd: true
-adMessage: <color=#FFF40C>Mensaje importante:</color> <color=#02BEF0>Usuarios de la intancia</color> <color=#F01F02>#33687</color>;<color=#02BEF0>favor de cambiar de sala a la numero</color> <color=#F01F02>#66970</color>
+adMessage: <color=#FFF40C>Mensaje importante:</color> <color=#02BEF0>Usuarios de la intancia</color> <color=#F01F02>#33687</color><color=#02BEF0>;favor de cambiar de sala a la numero</color> <color=#F01F02>#66970</color>
 sendDate: 12/03/2024 11:45 -03:00
 displayTime: 45
