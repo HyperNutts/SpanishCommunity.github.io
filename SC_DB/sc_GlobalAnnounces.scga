@@ -1,4 +1,4 @@
-enableAd: true
+enableAd: false
 adMessage: <color=#FFF40C>Mensaje de prueba. Saludos de HyperNutts</color> 
 sendDate: 13/03/2024 14:07 -05:00
 displayTime: 5
