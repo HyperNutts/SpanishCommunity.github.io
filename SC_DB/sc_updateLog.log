@@ -1,3 +1,17 @@
+<size=45><color=#00FF00>----------[ Spanish Club v2.4]----------</color></size>
+
+<color=#81ff33>FPS Update!!!</color>
+
+<size=35><color=#FF8D00>Separación y aislamiento de zonas: </color></size>Se han dividido y aislado todas las áreas para mejorar el rendimiento y la funcionalidad del mundo. Los interiores de los edificios también han sido aislados para optimizar el rendimiento.
+<size=35><color=#FF8D00>Mejora del código de scripts: </color></size>Se han realizado cambios menores en el código de algunos scripts para mejorar su funcionamiento.
+<size=35><color=#FF8D00>Corrección del UV del dirigible: </color></size>Se ha corregido el mapeo UV del dirigible, lo que ha eliminado la apariencia distorsionada que presentaba anteriormente.
+<size=35><color=#FF8D00>Añadida opción de insignias personalizables: </color></size>Se ha implementado la opción de adquirir insignias personalizables, las cuales pueden ser compradas a un precio asequible a través de Patreon.
+
+<color=#7E7E7E>- Notas del creador -
+Eh mejorado el spanish club para que valla mucho mejor en rendimiento ya que eh notado que los fps han bajado significativamente, las zonas han sido separadas para que corra mucho mejor el juego, espero sea de su agrado.
+Updated: 14/03/2024
+<color=#00FF00>------------------------------------------</color>
+
 <size=45><color=#00FF00>----------[ Spanish Club v2.3]----------</color></size>
 
 <size=35><color=#FF8D00> Global Messages:</color></size>Se a creado sistema de anuncios globales en spanish club, este sistema ayudara a la administracion a mandar mensajes a todas las instancias.
