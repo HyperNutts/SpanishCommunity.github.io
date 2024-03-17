@@ -1,4 +1,4 @@
 enableAd: true
-adMessage: <color=#FFF40C>Mensaje Importante:</color> <color=#0CFFE5>El mensaje recien enviado fue un error,disculpen las molestias.</color>
-sendDate: 17/03/2024 15:13 -03:00
+adMessage: <color=#FFF40C>Mensaje Importante:</color> <color=#0CFFE5>Debido al error de la desincronizacion,si les llega aparecer el mensaje otra vez deberan reiniciar la intancia o pueden hacerlo ahora mismo!.</color>
+sendDate: 17/03/2024 15:18 -03:00
 displayTime: 45
