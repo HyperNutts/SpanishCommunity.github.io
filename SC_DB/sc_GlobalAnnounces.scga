@@ -1,4 +1,4 @@
-enableAd: false
-adMessage: <color=#FFF40C>Mensaje Importante:</color> <color=#0CFFE5>Actualizacion Finalizada,Nueva intancia Oficial abierta!</color> <color=#FF0C0C>unete a la intancia #80359</color> <color=#0CFFE5>Para una mejor experiencia!</color>
-sendDate: 16/03/2024 14:04 -03:00
+enableAd: true
+adMessage: <color=#FFF40C>Mensaje Importante:</color> <color=#0CFFE5>La intancia Numero</color> <color=#FF0C0C>#66970 del Spanish Club</color> <color=#0CFFE5>se encuentra desincronizada y con fallos,favor de unirse a la intancia</color> <color=#FF0C0C>#80359 Del Spanish Club</color> 
+sendDate: 16/03/2024 21:51 -03:00
 displayTime: 45
