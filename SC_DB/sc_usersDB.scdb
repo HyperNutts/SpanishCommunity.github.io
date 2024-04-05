@@ -269,11 +269,6 @@ tier: 1
 time: 18
 date: 08/03/2024 00:00
 @vip
-name: Souls
-tier: 5
-time: 31
-date: 19/02/2024 19:00
-@vip
 name: ღChaoko03ღ
 tier: 6
 time: 31
@@ -294,7 +289,7 @@ tier: 6
 time: 31
 date: 07/03/2024 19:00
 @vip
-name: Coffe1242 7950
+name: ICOFFEI
 tier: 6
 time: 31
 date: 07/03/2024 19:00
@@ -303,11 +298,6 @@ name: LGsuzz
 tier: 6
 time: 31
 date: 07/03/2024 19:00
-@vip
-name: Leemoncita
-tier: 5
-time: 0
-date: 01/03/2024 13:00
 @vip
 name: GarrickVR
 tier: 5
@@ -339,11 +329,6 @@ tier: 6
 time: 31
 date: 25/03/2024 06:00
 @vip
-name: Hellmert
-tier: 5
-time: 0
-date: 22/02/2024 16:00
-@vip
 name: ttv sasitaon e6db
 tier: 4
 time: 0
@@ -373,11 +358,6 @@ name: PlayerTaT
 tier: 1
 time: 0
 date: 28/02/2024 19:30
-@vip
-name: ღ Izumi ღ
-tier: 5
-time: 0
-date: 29/02/2024 22:00
 @vip
 name: 'Ciela'
 tier: 6
@@ -418,11 +398,6 @@ name: Ruvmaii
 tier: 6
 time: 31
 date: 25/03/2024 23:24
-@vip
-name: Demonchild12369
-tier: 6
-time: 31
-date: 10/03/2024 00:35
 @vip
 name: ฿Ɇ₭Ø 忠
 tier: 5
@@ -469,7 +444,7 @@ tier: 7
 time: 0
 date: 05/03/2024 17:00
 @vip
-name: Not-Bob
+name: MiniJACOB f596
 tier: 5
 time: 0
 date: 05/03/2024 17:00
@@ -938,3 +913,8 @@ name: TTV Mystifyボッ
 tier: 6
 time: 0
 date: 04/04/2024 05:00
+@vip
+name: Demonchild12369
+tier: 6
+time: 31
+date: 10/03/2024 00:35
