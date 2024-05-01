@@ -1,4 +1,4 @@
-enableAd: false
-adMessage: <color=#0CFFE5>¡Hola! les recomendamos entrar a la nueva instancia oficial </color><color=#FF0000>N°#48538</color><color=#0CFFE5> Por una actualizacion grande que puede ocacionar inconvenientes si se encuentran en intancias desactualizadas,las siguientes intancias han sido cerradas. </color><color=#FF0000>#70894</color><color=#0CFFE5> les recomendamos entrar en la recien mencionada.</color>
-sendDate: 30/04/2024 18:20 -03:00
+enableAd: true
+adMessage: <color=#FF0000>ATENCION FANATICOS DEL ANIME!!! Pronto abriremos nuevo mundo con servicios exclusivos! atentos a las novedades.</color>
+sendDate: 30/04/2024 21:15 -03:00
 displayTime: 45
