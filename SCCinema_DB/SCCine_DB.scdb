@@ -1,7 +1,6 @@
 //TIERS: 
-//	1: OnlySeries
-//	2: OnlyMovies
-//	3: Movies_n_Series
+//	1: Vip (All content access)
+//	2: Staff
 //	99: Owner
 @user
 name: HyperNutts
@@ -10,11 +9,11 @@ time: 0
 date: 12/07/1994 17:30
 @user
 name: SugarLoliUwU
-tier: 3
+tier: 2
 time: 0
 date: 01/01/2000 00:00
 @user
 name: RandhyGoth
-tier: 3
+tier: 2
 time: 0
 date: 01/01/2000 00:00
