@@ -1,6 +1,7 @@
 //TIERS: 
-//	1: Vip (All content access)
-//	2: Staff
+//	1: Vip (Special content access)
+//	2: Vip+ (Contenido Maduro)
+//	3: Staff
 //	99: Owner
 @user
 name: HyperNutts
@@ -9,16 +10,16 @@ time: 0
 date: 12/07/1994 17:30
 @user
 name: SugarLoliUwU
-tier: 2
+tier: 3
 time: 0
 date: 01/01/2000 00:00
 @user
-name: RandhyGoth
-tier: 2
+name: XxRandhyGoxX
+tier: 3
 time: 0
 date: 01/01/2000 00:00
 @user
 name: RoninPer
-tier: 1
+tier: 2
 time: 365
 date: 07/05/2024 00:00
