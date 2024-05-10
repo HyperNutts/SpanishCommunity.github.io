@@ -1,7 +1,9 @@
 //TIERS: 
 //	1: Vip (Special content access)
-//	2: Vip+ (Contenido Maduro)
-//	3: Staff
+//	2: Vip H (Special content + Hentai)
+//	3: Vip+ (Contenido Maduro)
+//	4: Vip+ H (Contenido Hentai)
+//	5: Staff
 //	99: Owner
 @user
 name: HyperNutts
@@ -9,32 +11,607 @@ tier: 99
 time: 0
 date: 12/07/1994 17:30
 @user
+name: Taylor_20
+tier: 5
+time: 0
+date: 01/01/2024 00:00
+@user
+name: Randhygoo
+tier: 5
+time: 0
+date: 24/01/2024 16:30
+@user
+name: THEDAO77
+tier: 5
+time: 0
+date: 01/01/1999 00:00
+@user
+name: Yuan X
+tier: 5
+time: 0
+date: 01/01/1999 00:00
+@user
 name: SugarLoliUwU
-tier: 3
+tier: 4
 time: 0
-date: 01/01/2000 00:00
+date: 01/01/1999 00:00
 @user
-name: XxRandhyGoxX
-tier: 3
+name: XRandhyGoX
+tier: 5
 time: 0
-date: 01/01/2000 00:00
+date: 24/01/2024 16:30
 @user
-name: RoninPer
-tier: 2
-time: 365
-date: 07/05/2024 00:00
+name: LunaSparklez
+tier: 5
+time: 0
+date: 01/01/1999 00:00
+@user
+name: prick97
+tier: 5
+time: 0
+date: 02/02/1997 00:00
+@user
+name: WorldDestroyers
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ᴜѕᴀɢɪᴠʀ
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ItsDekuFreddy
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: 1ch4p d2a1
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Sanssha
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: _Moonlit
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Merche200
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: KiryCosplayer
+tier: 4
+time: 31
+date: 10/05/2024 00:00
 @user
 name: Ataky
-tier: 2
+tier: 4
 time: 31
-date: 09/05/2024 00:00
+date: 10/05/2024 00:00
 @user
-name: CommanderChuy
-tier: 2
+name: 機会Inari Rose
+tier: 4
 time: 31
-date: 09/05/2024 00:00
+date: 10/05/2024 00:00
+@user
+name: Will - Spirit
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Jandiz
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ƙɛƖ۷ıŋ
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: BreyL
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Nanachi_19
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Moon the føx
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Jömï
+tier: 4
+time: 31
+date: 10/05/2024 00:00
 @user
 name: DulcePinky
-tier: 2
+tier: 4
 time: 31
-date: 09/05/2024 00:00
+date: 10/05/2024 00:00
+@user
+name: mex1cat
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Mar Osaki
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ༒Silent Killer༒
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Maii22
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: LILITH02
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Esteymineitor88
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: GarrickVR
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: «༒ʀᴜѕʜᴋᴀ༒»
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: llMashiroll
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: UsefulJupiter52
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: PROXRAZIEN
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: MALEMIRK24
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Stephanie IXth
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Wrigth
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Kukohub
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: 'Ciela'
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: LAUDRIK2049
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Ban4n3ro
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: MDCF
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ฿Ɇ₭Ø 忠
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Mia_relis
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: 'Kaι'
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: oM1Uo
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: T_Tom
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Gigi_Lean
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: JAVIER ALUCIN
+tier: 4
+time: 0
+date: 10/05/2024 00:00
+@user
+name: ZoeshaTV
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: soofii1996
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: LureiRM
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: xMazonx
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Ailameth
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Toro959595
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: GoldExperiencex
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Shirou1711
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ZackiiMiso___
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: chatofortus
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: BLAZESUS
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: xd123442
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ControlUwU
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Myzrael22
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: -Dracul1106-
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: -Garais-
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: saaku․exe
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Luismusicario47
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: NEROmc1994 604a
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ж〄【Pƙ2F๏xiͲ๏】〄ж
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ༒༺ÐɑʀҟØ༻༒
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: CJe1rey
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: shanny_vt
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Whatsername_
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Nygmerৎ୭
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Forels
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Bröckrai
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Lunaticoh
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: FireChan太陽
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Ultra_thegod
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Nez-151
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: aiko00
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: -NEUM-
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: 6NINJAA9
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: xGumipty
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: OgamiJin
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: elpana1
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: LoreghostVT
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Ðaɴɪɪx
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Zandyuwu
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Rovi
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Demonchild12369
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: RiveraTuT
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Luzbel_Star 8763
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ¤ MeiMei ¤
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: imaginación_孤独
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: MarthyHD
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Leemoncita
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: vladimirESP
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ༒TICO༒
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: OnePandaDark
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Cony Lynx
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Itzel-luna
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: YessVT
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: LobiVtuber
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: noxumbris
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: 1Maxi
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Naayeli
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: BabeeHellsing
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: eduarx
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Rosse Lyn
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: NotMythical
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Eskimalito_pr f98f
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: ZekkiGaming
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: matape23
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: LuciferHM
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: Brenda~
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: JaƘe
+tier: 4
+time: 31
+date: 10/05/2024 00:00
+@user
+name: RoninPer
+tier: 4
+time: 365
+date: 07/05/2024 00:00
