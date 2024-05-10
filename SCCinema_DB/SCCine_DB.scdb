@@ -1,7 +1,9 @@
 //TIERS: 
 //	1: Vip (Special content access)
-//	2: Vip+ (Contenido Maduro)
-//	3: Staff
+//	2: Vip H (Special content + Hentai)
+//	3: Vip+ (Contenido Maduro)
+//	4: Vip+ H (Contenido Hentai)
+//	5: Staff
 //	99: Owner
 @user
 name: HyperNutts
